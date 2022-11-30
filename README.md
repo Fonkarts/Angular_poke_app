@@ -1,2 +1,4 @@
-# Angular_poke_app
-A basic pokemon app made with @angular/cli. More details soon.
+#Angular_poke_app
+
+This is a basic Pokemon App, made with @angular/cli 15.0.1
+More details coming soon.
